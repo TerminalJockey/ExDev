@@ -1,4 +1,4 @@
-exploit dev notes biiiiitch
+exploit dev notes
 
 https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html
 
